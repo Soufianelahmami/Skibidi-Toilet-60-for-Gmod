@@ -46,15 +46,15 @@
 
   "number_of_inters_to_show": 2,
   
-  "onesignal_id": "xxxxxxx",
+  "onesignal_id": "5800abfa-b167-4f67-98a2-55dd13a662d5",
   
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3coz3N.webp",
+	 "title": "Skibidi Toilet 60 for Gmod 1",
+	 "text": "Players have to complete a series of challenges and puzzles in a quirky, toilet-themed environment inspired by the Skibidi dance meme.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -66,10 +66,10 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3coo4p.webp",
+	 "title": "Skibidi Toilet 60 for Gmod 2",
+	 "text": "Create a massive, colorful, and bizarre toilet-themed arena with sections inspired by the Skibidi meme. Incorporate giant toilets, plungers, quirky bathroom items, and flashy disco-style aesthetics.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -81,10 +81,10 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3conGR.webp",
+	 "title": "Skibidi Toilet 60 for Gmod 3",
+	 "text": "Design challenging obstacle courses with plungers as platforms, rotating toilet seats, and slippery soap surfaces. Make sure to add neon lights and funky music to enhance the Skibidi vibe.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -96,10 +96,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3cofja.webp",
+	 "title": "Skibidi Toilet 60 for Gmod 4",
+	 "text": "Players need to navigate the toilet-themed obstacle courses, using their parkour and platforming skills to avoid falling into the toilet water.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -111,10 +111,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3coqZJ.webp",
+	 "title": "Skibidi Toilet 60 for Gmod 5",
+	 "text": "Add puzzles and challenges inspired by Skibidi's dance moves. For example, players may need to perform specific dance gestures on pressure plates to open doors or activate platforms.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -126,10 +126,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3coCCv.webp",
+	 "title": "Skibidi Toilet 60 for Gmod 6",
+	 "text": "Scatter Skibidi-themed collectibles throughout the map. Collecting these items can give players special abilities or points.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
